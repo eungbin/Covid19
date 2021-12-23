@@ -1,0 +1,9 @@
+.chart {
+    margin-top: 60px;
+    width: 100%;
+}
+
+.chartTitle {
+    font-size: 24px;
+    font-weight: 600;
+}

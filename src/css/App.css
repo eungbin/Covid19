@@ -1,0 +1,12 @@
+.container {
+    width: 500px;
+    padding: 50px 30px;
+    margin: 0 auto;
+    margin-top: -7px;
+    background-size: cover;
+    background-color: #fff;
+}
+
+body {
+  background-color: #F9FAFB;
+}

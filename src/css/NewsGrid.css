@@ -1,0 +1,11 @@
+.gridWrapper {
+    height: 650px;
+    margin-top: 50px;
+}
+
+.newsTitle {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: 600;
+    color: #333;
+}

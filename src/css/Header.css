@@ -1,0 +1,53 @@
+.headerTop {
+    font-size: 20px;
+}
+
+.firstLine {
+    height: 30px;
+}
+
+.firstLine > div {
+    float: left;
+    font-weight: 300;
+}
+
+.danger {
+    width: 50px;
+    text-align: center;
+    margin-left: 15px;
+    border: 1px solid #864F88;
+    border-radius: 20px;
+    background-color: #864F88;
+    color: white;
+    font-size: 18px;
+}
+
+.secondLine {
+    height: 40px;
+}
+
+.secondLine > div {
+    float: left;
+}
+
+.pageTitle {
+    font-size: 30px;
+    font-weight: 600;
+    color: #333;
+}
+
+.smallTitle {
+    font-size: 16px;
+    font-weight: 300;
+    margin-left: 10px;
+    padding: 14px 0px 0px 0px;
+}
+
+.thirdLine {
+    height: 20px;
+}
+
+.updatedTime {
+    font-size: 16px;
+    font-weight: 300;
+}
