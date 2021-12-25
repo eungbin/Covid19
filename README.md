@@ -2,7 +2,7 @@
 
 ## Project Settings (21-12-17 Fri.)
 
-### dependencies
+### dependencies  
 
 ```json
  "dependencies": {
