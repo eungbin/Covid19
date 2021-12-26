@@ -1,6 +1,6 @@
 # Today's Covid19
 
-## Project Settings (21-12-17 Fri.)
+## Project Settings (21-12-17 Fri.)  
 
 ### dependencies  
 
