@@ -76,6 +76,6 @@ npm run dev
 
 ## Website Link
 
-<a href="http://eungbin.github.io/Covid19/">Go Website</a>
+<a href="http://eungbin.github.io/covid19/">Go Website</a>
 
 <hr />
