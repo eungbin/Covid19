@@ -39,8 +39,6 @@ interface KoreaData {
 
 const BoxContainer = () => {
     const { data } = useAxiosGet<KoreaData>("https://disease.sh/v3/covid-19/countries/KR");
-
-    console.log(data);
     
     return (
         <div className="boxContainer">
