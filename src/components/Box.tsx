@@ -17,9 +17,9 @@ const calSeparator = (value?: number) => {
 const Box = (props: BoxProps) => {
 
   return (
-    <div className="box">
+    <div>
       {(props.today === undefined) || (props.total === undefined) ? <span>Loading...</span> :
-        <div>
+        <div className="box">
           <span className="title">{props.title}<br /></span>
           <span className="today">{calSeparator(props.today)}<br /></span>
           <span className="total">{calSeparator(props.total)}<br /></span>
